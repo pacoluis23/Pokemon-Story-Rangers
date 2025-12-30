@@ -1,2 +1,3 @@
 ID: 1 | Type: 0 | Item: PIKACHU (Lv20) | Name: Pikachu de Github
 ID: 2 | Type: 0 | Item: RAICHU (Lv14) | Name: ¡Raichu de Alola viene de vacaciones!
+ID: 666 | Type: 1 | Item: HELIXFOSSIL x1 | Name: ¡Salve Lord Helix!
